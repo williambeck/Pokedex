@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
 html,
 body {
   padding: 0;
@@ -13,4 +15,11 @@ a {
 
 * {
   box-sizing: border-box;
+  font-family: Roboto, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.main-container {
+  min-height: 70vh;
 }

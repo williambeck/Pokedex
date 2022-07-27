@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    margin-top: 2em;
+    background: linear-gradient(#0070f3, #A2C5FE);
+    color: #fff;
+   
+}
+
+.footer span {
+    font-weight: bold;
+  }
