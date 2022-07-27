@@ -16,7 +16,7 @@ export default function About() {
         src="/images/pokemon_PNG98.png"
         width="1000"
         height="450"
-        alt="Charizard"
+        alt="Iniciais"
       />
     </div>
   )
